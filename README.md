@@ -20,7 +20,7 @@ It boots the device with AMFI patches. There is **no tweak injection yet**.
 3. Prepare your onboard blob for the **current version** you're on
 4. Put your device in DFU mode
 6. Open lemonra1n, select your blob then type in your iOS version and tap Jailbreak (should take about 1 minute)
-7. Install lemonra1n Loader through TrollStore, then hit Install in the app!
+7. Install Pogo through TrollStore, then hit Install in the app!
     - You can get the Pogo IPA from [here](https://nightly.link/elihwyma/Pogo/workflows/build/main/Pogo.zip)
     - You should now see Sileo on your homescreen, enjoy!
     - You'll have to uicache in Pogo every reboot
