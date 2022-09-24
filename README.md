@@ -23,7 +23,7 @@ It boots the device with AMFI patches. There is **no tweak injection yet**.
 7. Install lemonra1n Loader through TrollStore, then hit Install in the app!
     - You can get the Pogo IPA from [here](https://nightly.link/elihwyma/Pogo/workflows/build/main/Pogo.zip)
     - You should now see Sileo on your homescreen, enjoy!
-    - You'll have to open lemonra1n Loader every reboot (opening it will run a uicache for you to use Sileo again)
+    - You'll have to uicache in Pogo every reboot
 
 # Credits
 - [Nebula](https://github.com/itsnebulalol) for a lot of the code from palera1n
