@@ -26,6 +26,6 @@ It boots the device with AMFI patches. There is **no tweak injection yet**.
     - You'll have to uicache in Pogo every reboot
 
 # Credits
-- [Nebula](https://github.com/itsnebulalol) for a lot of the code from palera1n
+- [Nebula](https://github.com/itsnebulalol) for the original script from palera1n
 - [the Procursus Team](https://github.com/ProcursusTeam) for the amazing bootstrap
 - [Amy](https://github.com/elihwyma) for Pogo
