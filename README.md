@@ -1,17 +1,14 @@
 # lemonra1n
 iOS 15.0 - 15.4.1 (15.5b4) work in progress semi-tethered checkm8 jailbreak
 
+Open sourcing tomorrow or later today
+
 # What does this do?
 It boots the device with AMFI patches. There is **no tweak injection yet**.
 
 **NOTE**: Onboard blobs are pretty much needed so you don't get the black screen issue. Dump onboards with [SSHRD_Script](https://github.com/verygenericname/SSHRD_Script), then use that blob with this Jailbreak
 
 **NOTE 2**: This is for macOS only
-
-**Known working devices:**
-- iPhone X (GSM)
-- iPhone 7
-- iPhone 6s
 
 # How to use
 1. Install libimobiledevice
