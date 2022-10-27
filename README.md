@@ -10,6 +10,8 @@ It boots the device with AMFI patches. There is **no tweak injection yet**.
 
 **NOTE 2**: This is for macOS only
 
+**NOTE 3**: lemonra1n needs full disk access this can be granted in system preferences
+
 # How to use
 1. Install libimobiledevice
     - It's needed for `ideviceenterrecovery` and `ideviceinfo`
