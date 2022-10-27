@@ -13,8 +13,7 @@ It boots the device with AMFI patches. There is **no tweak injection yet**.
 **NOTE 3**: lemonra1n needs full disk access this can be granted in system preferences
 
 # How to use
-1. Install libimobiledevice
-    - It's needed for `ideviceenterrecovery` and `ideviceinfo`
+1. Install libimobiledevice & libirecovery
 2. Install lemonra1n from [here](https://github.com/BenjaminHornbeck6/lemonra1n/releases/download/lemonra1n/lemonra1n.app.zip)
 3. Prepare your onboard blob for the **current version** you're on
 4. Put your device in DFU mode
