@@ -6,7 +6,7 @@ Open sourcing tomorrow or later today
 # What does this do?
 It boots the device with AMFI patches. There is **no tweak injection yet**.
 
-**NOTE**: Onboard blobs are pretty much needed so you don't get the black screen issue. Dump onboards with [SSHRD_Script](https://github.com/verygenericname/SSHRD_Script), then use that blob with this Jailbreak
+**NOTE**: Onboard blobs are pretty much needed so you don't get the black screen issue. Dump onboards with [this app](https://appinstallerios.com/TrollStoreIPAs/Blob.ipa), then use that blob with this Jailbreak
 
 **NOTE 2**: This is for macOS only
 
