@@ -6,7 +6,7 @@ It boots the device with AMFI patches. There is **no tweak injection yet**.
 
 **NOTE**: Onboard blobs are pretty much needed so you don't get the black screen issue. Dump onboards with [this app](https://appinstallerios.com/TrollStoreIPAs/Blob.ipa), then use that blob with this Jailbreak
 
-**NOTE 2**: This is for macOS only
+**NOTE 2**: This is for macOS 11.0 and later
 
 **NOTE 3**: lemonra1n needs full disk access this can be granted in system preferences
 
