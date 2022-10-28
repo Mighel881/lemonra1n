@@ -1,8 +1,6 @@
 # lemonra1n
 iOS 15.0 - 15.4.1 (15.5b4) work in progress semi-tethered checkm8 jailbreak
 
-Open sourcing tomorrow or later today
-
 # What does this do?
 It boots the device with AMFI patches. There is **no tweak injection yet**.
 
